@@ -4,7 +4,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mrv3n0m666&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
+<p align="center">
+  <a href="https://www.pip.me/d3xt3r">
+  <img src="https://img.shields.io/badge/PIP%20ME👉-https://pip.me/d3xt3r-green?style=for-the-badge" />
+</p>
+ 
 ---
 
 - 🔭 I’m currently working on: **SMTP Tester x AI**, **Uranium Miner Bot**, **Testnet & Validator Nodes**
